@@ -26,9 +26,6 @@ class DataLoader:
         self._entity_class = entity_class
         self._file_type = file_type
         self._entity_fields = entity_fields if entity_fields is not None else []
-        self.entities = (
-            self.load_entities()
-        )  # Una lista de objetos de la clase _entity_class
 
     def map_entity_fields(self, entity_data):
         entity_args = {}
@@ -51,6 +48,7 @@ class DataLoader:
                 ]
             else:
                 raise ValueError(f"Unsupported file type: {self._file_type}")
+        # self.entities = entities
         return entities
 
 
@@ -59,10 +57,21 @@ class DataLoader:
 class Recipe:
     """Class for representing a recipe"""
 
-    recipe_id: str
-    title: str
-    source: str
-    cuisine: str
+    recipe_id: str = None
+    title: str = None
+    source: str = None
+    cuisine: str = None
+
+    def __str__(self):
+        # for attr in [
+        #     "recipe_id",
+        #     "title",
+        #     "source",
+        #     "cousine",
+        # ]:
+        #     val1 = getattr(self, attr)
+        #     if val1 is not None and val1 != "":
+        return f"{self.recipe_id} : {self.title} ({self.cuisine}) from {self.source}"
 
     def add_ingredients(self, ingredients_list):
         self.ingredients_list = ingredients_list
@@ -187,9 +196,6 @@ ingredient_1 = DataLoader(
     file_type="json",
     entity_fields=[
         ("entity_id", "Entity ID"),
-        ("aliased_name", "Aliased Ingredient Name"),
-        ("synonyms", "Ingredient Synonyms"),
-        ("category", "Category"),
     ],
 )
 
@@ -229,13 +235,16 @@ ingredient_3 = DataLoader(
 # list_recipe_1 = recipe_1.entities[2]
 # print(list_recipe_1.data)
 
-print("Ingredientes1 [287]:", ingredient_1.entities[287])
-print("Ingredientes3 [2]:", ingredient_3.entities[2])
+# print("Ingredientes1 [287]:", ingredient_1.entities[287])
+# print("Ingredientes3 [2]:", ingredient_3.entities[2])
 
-merge_ingredint_291 = merge_ingredients(
-    ingredient_1.entities[287], ingredient_3.entities[2]
-)
-print(merge_ingredint_291)
+# merge_ingredint_291 = merge_ingredients(
+#     ingredient_1.entities[287], ingredient_3.entities[2]
+# )
+# print(merge_ingredint_291)
 
-merge = merge_ingredient_lists(ingredient_1.entities, ingredient_3.entities)
-print("Merged Ingrediets:", merge[287])
+# merge = merge_ingredient_lists(ingredient_1.entities, ingredient_3.entities)
+# print("Merged Ingrediets:", merge[287])
+
+ingrediente1 = recipe_1.load_entities()
+print(ingrediente1[1])
