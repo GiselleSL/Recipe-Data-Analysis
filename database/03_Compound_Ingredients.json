@@ -1,0 +1,723 @@
+[
+    {
+        "Compound Ingredient Name": "Garam Masala",
+        "Compound Ingredient Synonyms": "garam masala",
+        "entity_id": "2000",
+        "Contituent Ingredients": "black pepper, mace, cinnamon, clove, cardamom, nutmeg",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Ginger Garlic Paste",
+        "Compound Ingredient Synonyms": "ginger garlic paste",
+        "entity_id": "2001",
+        "Contituent Ingredients": "ginger, garlic",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Coriander Cumin Seed Powder",
+        "Compound Ingredient Synonyms": "coriander cumin seed powder",
+        "entity_id": "2002",
+        "Contituent Ingredients": "coriander, cumin",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Chaat Masala",
+        "Compound Ingredient Synonyms": "chaat masala",
+        "entity_id": "2003",
+        "Contituent Ingredients": "asafoetida, mango, black salt, cayenne, garlic, ginger, sesame seed, black mustard seed oil, turmeric, coriander, bay laurel, anise, fennel",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Sambar Powder",
+        "Compound Ingredient Synonyms": "sambar powder",
+        "entity_id": "2004",
+        "Contituent Ingredients": "pigeon pea, coriander, chickpea, cumin, black pepper, cayenne, ginger, fenugreek, turmeric",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Chole Masala",
+        "Compound Ingredient Synonyms": "chole masala",
+        "entity_id": "2005",
+        "Contituent Ingredients": "cayenne, garlic, ginger, roasted sesame seed, black mustard seed oil, turmeric, coriander bay laurel, anise, fennel",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Rasam Powder",
+        "Compound Ingredient Synonyms": "rasam powder",
+        "entity_id": "2006",
+        "Contituent Ingredients": "cayenne, pigeon pea, cumin, coriander, black pepper, curry leaf",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Tandoori Masala",
+        "Compound Ingredient Synonyms": "tandoori masala",
+        "entity_id": "2007",
+        "Contituent Ingredients": "garlic, ginger, clove, nutmeg, mace, cumin, coriander, fenugreek, cinnamon, cardamom, black pepper",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Curry Powder",
+        "Compound Ingredient Synonyms": "curry powder",
+        "entity_id": "2008",
+        "Contituent Ingredients": "cardamom, cayenne, cinnamon, clove, coriander, cumin, fennel, fenugreek, mace, nutmeg, black pepper, poppy seed, sesame seed, saffron, tamarind, turmeric",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Panch Pharon Seed",
+        "Compound Ingredient Synonyms": "panch pharon seed",
+        "entity_id": "2009",
+        "Contituent Ingredients": "fenugreek, nigella seed, cumin, black mustard seed oil",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Chicken Masala Powder",
+        "Compound Ingredient Synonyms": "chicken masala powder",
+        "entity_id": "2010",
+        "Contituent Ingredients": "bay laurel, ginger, cinnamon, clove, black pepper, coriander, fennel, cayenne",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Goda Masala",
+        "Compound Ingredient Synonyms": "goda masala",
+        "entity_id": "2011",
+        "Contituent Ingredients": "cardamom, cinnamon, clove, bay laurel, sesame seed, coriander, coconut, cassia, white pepper, black pepper",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Jal Jeera Powder",
+        "Compound Ingredient Synonyms": "jal jeera powder",
+        "entity_id": "2012",
+        "Contituent Ingredients": "black salt, mango, cumin, citric acid, mint, black pepper, ginger, asafoetida",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Ginger Garlic Coriander Leaves",
+        "Compound Ingredient Synonyms": "ginger garlic coriander leaf",
+        "entity_id": "2013",
+        "Contituent Ingredients": "ginger, garlic, coriander",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Pulao Masala",
+        "Compound Ingredient Synonyms": "pulao masala",
+        "entity_id": "2014",
+        "Contituent Ingredients": "black pepper, white pepper, clove, cumin, cinnamon, cardamom, coriander",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Dabeli Masala",
+        "Compound Ingredient Synonyms": "dabeli masala",
+        "entity_id": "2015",
+        "Contituent Ingredients": "cayenne, coriander, cinnamon, clove, cumin",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Cake Mix",
+        "Compound Ingredient Synonyms": "cake mix",
+        "entity_id": "2016",
+        "Contituent Ingredients": "flour, wheat, sugar, baking powder, salt",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Half Half",
+        "Compound Ingredient Synonyms": "half=half",
+        "entity_id": "2017",
+        "Contituent Ingredients": "milk, cream",
+        "Category": "Dairy"
+    },
+    {
+        "Compound Ingredient Name": "Ale",
+        "Compound Ingredient Synonyms": "ale",
+        "entity_id": "2018",
+        "Contituent Ingredients": "beer, hops-beer",
+        "Category": "Beverage Alcoholic"
+    },
+    {
+        "Compound Ingredient Name": "Vermicelli",
+        "Compound Ingredient Synonyms": "vermicelli",
+        "entity_id": "2019",
+        "Contituent Ingredients": "flour, wheat, water, salt",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Self Rising Flour",
+        "Compound Ingredient Synonyms": "self rising flour",
+        "entity_id": "2020",
+        "Contituent Ingredients": "flour, salt, baking=powder",
+        "Category": "Cereal"
+    },
+    {
+        "Compound Ingredient Name": "Mayonnaise",
+        "Compound Ingredient Synonyms": "mayonnaise",
+        "entity_id": "2021",
+        "Contituent Ingredients": "oil, egg, lemon-juice",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Salt-Pepper",
+        "Compound Ingredient Synonyms": "salt=pepper",
+        "entity_id": "2022",
+        "Contituent Ingredients": "salt, pepper",
+        "Category": "Additive"
+    },
+    {
+        "Compound Ingredient Name": "Croissant",
+        "Compound Ingredient Synonyms": "croissant",
+        "entity_id": "2023",
+        "Contituent Ingredients": "flour, wheat, butter, yeast",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Puff Pastry",
+        "Compound Ingredient Synonyms": "puff pastry",
+        "entity_id": "2024",
+        "Contituent Ingredients": "flour, wheat, butter",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Green Chutney",
+        "Compound Ingredient Synonyms": "green chutney",
+        "entity_id": "2025",
+        "Contituent Ingredients": "corriander, cumin, lemon-juice, cayenne",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Cajun Seasoning",
+        "Compound Ingredient Synonyms": "cajun seasoning",
+        "entity_id": "2026",
+        "Contituent Ingredients": "salt, cayenne, garlic, oregano, paprika, thyme, pepper, onion",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Vegetable Broth",
+        "Compound Ingredient Synonyms": "vegetable broth",
+        "entity_id": "2027",
+        "Contituent Ingredients": "onion, carrot, celery, shallot, sage, mushroom",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Tandoori Paste",
+        "Compound Ingredient Synonyms": "tandoori paste",
+        "entity_id": "2028",
+        "Contituent Ingredients": "garlic, ginger, clove, nutmeg, mace, cumin, coriander, fenugreek, cinnamon, cardamom, black pepper, yogurt, lime=juice",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Mixed Vegetables",
+        "Compound Ingredient Synonyms": "mixed vegetables",
+        "entity_id": "2029",
+        "Contituent Ingredients": "carrot, cauliflower, corn, pea, capsicum",
+        "Category": "Vegetable"
+    },
+    {
+        "Compound Ingredient Name": "Salad Creme",
+        "Compound Ingredient Synonyms": "salad creme",
+        "entity_id": "2030",
+        "Contituent Ingredients": "oil, egg, vinegar, water",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Worcestershite Sauce",
+        "Compound Ingredient Synonyms": "worcestershire sauce",
+        "entity_id": "2031",
+        "Contituent Ingredients": "cider-vinegar, soy=sauce, water, sugar, ginger, mustard, onion, garlic, cinnamon, pepper-black",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Coleslaw",
+        "Compound Ingredient Synonyms": "coleslaw",
+        "entity_id": "2032",
+        "Contituent Ingredients": "cabbage, vinegar, oil, salt, mayonnaise, egg, water",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Vegetable Stock",
+        "Compound Ingredient Synonyms": "vegetable stock",
+        "entity_id": "2033",
+        "Contituent Ingredients": "onion, carrot, celery, thyme, bayleaf, pepper, tomato, garlic",
+        "Category": "Vegetable"
+    },
+    {
+        "Compound Ingredient Name": "Mascarpone",
+        "Compound Ingredient Synonyms": "mascarpone",
+        "entity_id": "2034",
+        "Contituent Ingredients": "cheese-cream, lemon-juice, vinegar",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Fettuccine",
+        "Compound Ingredient Synonyms": "fettuccine",
+        "entity_id": "2035",
+        "Contituent Ingredients": "flour, wheat, eggs",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Italian Seasoning",
+        "Compound Ingredient Synonyms": "italian style seasoning; italian herb seasoning; italian seasoning",
+        "entity_id": "2036",
+        "Contituent Ingredients": "basil, oregano, rosemary, thyme",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Ketchup",
+        "Compound Ingredient Synonyms": "ketchup",
+        "entity_id": "2037",
+        "Contituent Ingredients": "ketchup, tomato, sugar, vinegar, salt, onion, allspice, coriander, clove, cumin, garlic, mustard",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Spinach Fettuccine",
+        "Compound Ingredient Synonyms": "spinach fettuccine",
+        "entity_id": "2038",
+        "Contituent Ingredients": "spinach, flour, wheat, eggs",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Hoisin Sauce",
+        "Compound Ingredient Synonyms": "hoisin sauce",
+        "entity_id": "2039",
+        "Contituent Ingredients": "soybean, cayenne, garlic",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Barbeque Sauce",
+        "Compound Ingredient Synonyms": "barbeque sauce",
+        "entity_id": "2040",
+        "Contituent Ingredients": "vinegar, tomato, tomato-paste, tomato-puree, mayonnaise, liquid=smoke, onion, mustard, pepper, sugar",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Sponge Cake",
+        "Compound Ingredient Synonyms": "sponge cake",
+        "entity_id": "2041",
+        "Contituent Ingredients": "flour, wheat, butter, sugar, egg, baking=powder",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Baking Mix",
+        "Compound Ingredient Synonyms": "baking mix",
+        "entity_id": "2042",
+        "Contituent Ingredients": "flour, wheat, baking=powder, yeast, sugar, salt",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Hot Sauce",
+        "Compound Ingredient Synonyms": "hot sauce",
+        "entity_id": "2043",
+        "Contituent Ingredients": "cayenne, salt, vinegar",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Dried Mixed Fruit",
+        "Compound Ingredient Synonyms": "dried mixed fruit",
+        "entity_id": "2044",
+        "Contituent Ingredients": "raisin, apricot, date, currant, fig",
+        "Category": "Fruit"
+    },
+    {
+        "Compound Ingredient Name": "Candied Mixed Fruit",
+        "Compound Ingredient Synonyms": "candied mixed fruit",
+        "entity_id": "2045",
+        "Contituent Ingredients": "raisin, apricot, date, currant, fig, sugar",
+        "Category": "Fruit"
+    },
+    {
+        "Compound Ingredient Name": "Gulkand",
+        "Compound Ingredient Synonyms": "gulkand",
+        "entity_id": "2046",
+        "Contituent Ingredients": "rose, sugar",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Pancetta",
+        "Compound Ingredient Synonyms": "pancetta",
+        "entity_id": "2047",
+        "Contituent Ingredients": "pork, pepper, salt",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Phyllo",
+        "Compound Ingredient Synonyms": "phyllo",
+        "entity_id": "2048",
+        "Contituent Ingredients": "phyllo, flour, wheat",
+        "Category": "Cereal"
+    },
+    {
+        "Compound Ingredient Name": "Pie Crust",
+        "Compound Ingredient Synonyms": "pie=crust",
+        "entity_id": "2049",
+        "Contituent Ingredients": "pie=crust, flour, wheat",
+        "Category": "Cereal"
+    },
+    {
+        "Compound Ingredient Name": "Prosciutto",
+        "Compound Ingredient Synonyms": "prosciutto",
+        "entity_id": "2050",
+        "Contituent Ingredients": "ham, ham-cured",
+        "Category": "Meat"
+    },
+    {
+        "Compound Ingredient Name": "Creole Seasoning",
+        "Compound Ingredient Synonyms": "creole seasoning",
+        "entity_id": "2051",
+        "Contituent Ingredients": "onion, pepper, garlic, pepper-white, oregano, cayenne, basil, capsicum, thyme, salt",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Chinese Five Spice Powder",
+        "Compound Ingredient Synonyms": "chinese five spice",
+        "entity_id": "2052",
+        "Contituent Ingredients": "cinnamon, anise-star, fennel, pepper, clove",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Old Bay Seasoning",
+        "Compound Ingredient Synonyms": "old=bay seasoning",
+        "entity_id": "2053",
+        "Contituent Ingredients": "bay=laurel, celery, salt, mustard, pepper, ginger, capsicum, pepper-white, nutmeg, clove, allspice, cayenne, mace, cardamom, cinnamon",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Adobo Sauce",
+        "Compound Ingredient Synonyms": "adobo sauce",
+        "entity_id": "2054",
+        "Contituent Ingredients": "cayenne, garlic, cider-vinegar, salt, sugar, cumin",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Cracker Crumb",
+        "Compound Ingredient Synonyms": "cracker crumb; graham cracker",
+        "entity_id": "2055",
+        "Contituent Ingredients": "wheat, sugar, honey",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Flour",
+        "Compound Ingredient Synonyms": "flour; atta",
+        "entity_id": "2056",
+        "Contituent Ingredients": "flour, wheat",
+        "Category": "Cereal"
+    },
+    {
+        "Compound Ingredient Name": "Ranch Dressing",
+        "Compound Ingredient Synonyms": "dressing-ranch",
+        "entity_id": "2057",
+        "Contituent Ingredients": "mayonnaise, garlic, cream, onion, chive, salt, parsley, pepper, dill",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Poultry Seasoning",
+        "Compound Ingredient Synonyms": "poultry seasoning",
+        "entity_id": "2058",
+        "Contituent Ingredients": "sage, thyme, marjoram, rosemary, nutmeg, pepper",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Tahini",
+        "Compound Ingredient Synonyms": "tahini",
+        "entity_id": "2059",
+        "Contituent Ingredients": "sesame, olive",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Herbe de Provence",
+        "Compound Ingredient Synonyms": "herbe de provence",
+        "entity_id": "2060",
+        "Contituent Ingredients": "rosemary, lavendar, fennel, parsley, savory-winter, oregano, thyme, tarragon, basil, bay=laurel, marjoram",
+        "Category": "Spice"
+    },
+    {
+        "Compound Ingredient Name": "Tart Shell",
+        "Compound Ingredient Synonyms": "tart shell",
+        "entity_id": "2061",
+        "Contituent Ingredients": "flour, wheat, sugar, salt, butter, shortening, water",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Adobo",
+        "Compound Ingredient Synonyms": "adobo",
+        "entity_id": "2062",
+        "Contituent Ingredients": "cayenne, garlic, cider-vinegar, salt, sugar, cumin, chicken, adobo",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Tomato Puree",
+        "Compound Ingredient Synonyms": "tomato-puree",
+        "entity_id": "2063",
+        "Contituent Ingredients": "tomato, tomato-puree",
+        "Category": "Vegetable"
+    },
+    {
+        "Compound Ingredient Name": "Tomato Paste",
+        "Compound Ingredient Synonyms": "tomato-paste",
+        "entity_id": "2064",
+        "Contituent Ingredients": "tomato, tomato-paste",
+        "Category": "Vegetable"
+    },
+    {
+        "Compound Ingredient Name": "Bear",
+        "Compound Ingredient Synonyms": "bear",
+        "entity_id": "2065",
+        "Contituent Ingredients": "bear-black, bear-brown, bear-polar",
+        "Category": "Meat"
+    },
+    {
+        "Compound Ingredient Name": "Whale",
+        "Compound Ingredient Synonyms": "whale",
+        "entity_id": "2066",
+        "Contituent Ingredients": "whale-beluga, whale-bowhead",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Whitefish",
+        "Compound Ingredient Synonyms": "whitefish",
+        "entity_id": "2067",
+        "Contituent Ingredients": "whitefish-broad, whitefish",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Seal",
+        "Compound Ingredient Synonyms": "seal",
+        "entity_id": "2068",
+        "Contituent Ingredients": "seal, seal-ringed, seal-spotted, seal-bearded",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Tuna",
+        "Compound Ingredient Synonyms": "tuna",
+        "entity_id": "2069",
+        "Contituent Ingredients": "tuna-albacore, tuna-bluefin, tuna-yellowfin, tuna",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Croaker",
+        "Compound Ingredient Synonyms": "croaker",
+        "entity_id": "2070",
+        "Contituent Ingredients": "croaker-atlantic, croaker-spot",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Mackerel",
+        "Compound Ingredient Synonyms": "mackerel",
+        "entity_id": "2071",
+        "Contituent Ingredients": "mackerel-atlantic, mackerel-pacific, mackerel-king, mackerel-spanish",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Pollock",
+        "Compound Ingredient Synonyms": "pollock",
+        "entity_id": "2072",
+        "Contituent Ingredients": "pollock-atlantic, pollock-alaska, pollock",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Anchovy",
+        "Compound Ingredient Synonyms": "anchovy",
+        "entity_id": "2073",
+        "Contituent Ingredients": "anchovy-european, anchovy",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Perch",
+        "Compound Ingredient Synonyms": "perch",
+        "entity_id": "2074",
+        "Contituent Ingredients": "perch-pacific, perch-pike",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Frybread",
+        "Compound Ingredient Synonyms": "fry=bread",
+        "entity_id": "2075",
+        "Contituent Ingredients": "frybread, flour, wheat",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Sturgeon",
+        "Compound Ingredient Synonyms": "sturgeon",
+        "entity_id": "2076",
+        "Contituent Ingredients": "sturgeon-greater, sturgeon",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Hibiscus Tea",
+        "Compound Ingredient Synonyms": "tea-hibiscus",
+        "entity_id": "2077",
+        "Contituent Ingredients": "tea-hibiscus, water, sugar",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Deer",
+        "Compound Ingredient Synonyms": "deer; elk",
+        "entity_id": "2078",
+        "Contituent Ingredients": "mule deer, deer, elk, meat",
+        "Category": "Meat"
+    },
+    {
+        "Compound Ingredient Name": "Octopus",
+        "Compound Ingredient Synonyms": "octopus",
+        "entity_id": "2079",
+        "Contituent Ingredients": "octopus, octopus-pacific",
+        "Category": "Seafood"
+    },
+    {
+        "Compound Ingredient Name": "Oat Bread",
+        "Compound Ingredient Synonyms": "bread-oat",
+        "entity_id": "2080",
+        "Contituent Ingredients": "bread-oat, oat, bread",
+        "Category": "Bakery"
+    },
+    {
+        "Compound Ingredient Name": "Pita Bread",
+        "Compound Ingredient Synonyms": "bread-pita",
+        "entity_id": "2081",
+        "Contituent Ingredients": "bread-pita, bread",
+        "Category": "Bakery"
+    },
+    {
+        "Compound Ingredient Name": "Raisin Bread",
+        "Compound Ingredient Synonyms": "bread-raisin",
+        "entity_id": "2082",
+        "Contituent Ingredients": "bread-raisin, bread, raisin",
+        "Category": "Bakery"
+    },
+    {
+        "Compound Ingredient Name": "Multigrain Bread",
+        "Compound Ingredient Synonyms": "bread-multigrain",
+        "entity_id": "2083",
+        "Contituent Ingredients": "bread-multigrain, flax=seed, bread, oat",
+        "Category": "Bakery"
+    },
+    {
+        "Compound Ingredient Name": "Cornbread",
+        "Compound Ingredient Synonyms": "corn=bread",
+        "entity_id": "2084",
+        "Contituent Ingredients": "cornbread, corn, bread",
+        "Category": "Bakery"
+    },
+    {
+        "Compound Ingredient Name": "Pout",
+        "Compound Ingredient Synonyms": "pout",
+        "entity_id": "2085",
+        "Contituent Ingredients": "pout-ocean, pout-norway",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Herring",
+        "Compound Ingredient Synonyms": "herring",
+        "entity_id": "2086",
+        "Contituent Ingredients": "herring-pacific, herring-atlantic",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Smelt",
+        "Compound Ingredient Synonyms": "smelt",
+        "entity_id": "2087",
+        "Contituent Ingredients": "smelt-rainbow, smelt",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Crab",
+        "Compound Ingredient Synonyms": "crab; crabmeat",
+        "entity_id": "2088",
+        "Contituent Ingredients": "crab, red king crab",
+        "Category": "Seafood"
+    },
+    {
+        "Compound Ingredient Name": "Cooking Oil",
+        "Compound Ingredient Synonyms": "cooking oil; vegetable oil",
+        "entity_id": "2089",
+        "Contituent Ingredients": "cooking oil, sunflower",
+        "Category": "Additive"
+    },
+    {
+        "Compound Ingredient Name": "Rice Cake",
+        "Compound Ingredient Synonyms": "rice-cake",
+        "entity_id": "2090",
+        "Contituent Ingredients": "rice-cake, rice, flour, wheat, ???vegetable-oil???",
+        "Category": "Bakery"
+    },
+    {
+        "Compound Ingredient Name": "Trout",
+        "Compound Ingredient Synonyms": "trout",
+        "entity_id": "2091",
+        "Contituent Ingredients": "trout-sea, trout-lake, trout-rainbow",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Lobster",
+        "Compound Ingredient Synonyms": "lobster",
+        "entity_id": "2092",
+        "Contituent Ingredients": "lobster, lobster-spiny",
+        "Category": "Seafood"
+    },
+    {
+        "Compound Ingredient Name": "Halibut",
+        "Compound Ingredient Synonyms": "halibut",
+        "entity_id": "2093",
+        "Contituent Ingredients": "halibut-atlantic, halibut-greenland",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Whiting",
+        "Compound Ingredient Synonyms": "whiting",
+        "entity_id": "2094",
+        "Contituent Ingredients": "whiting, whiting-blue",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Buffalo",
+        "Compound Ingredient Synonyms": "buffalo",
+        "entity_id": "2095",
+        "Contituent Ingredients": "buffalo, meat",
+        "Category": "Meat"
+    },
+    {
+        "Compound Ingredient Name": "Catfish",
+        "Compound Ingredient Synonyms": "catfish",
+        "entity_id": "2096",
+        "Contituent Ingredients": "catfish-channel, catfish",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Salmon",
+        "Compound Ingredient Synonyms": "salmon; arctic char; cisco; salmonidae",
+        "entity_id": "2097",
+        "Contituent Ingredients": "salmon-coho, salmon-atlantic, salmon-chinook, salmon-chun, salmon-pink, salmon-sockeye, salmon, salmonidae, cisco",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Rabbit",
+        "Compound Ingredient Synonyms": "rabbit",
+        "entity_id": "2098",
+        "Contituent Ingredients": "rabbit, rabbit-european, meat",
+        "Category": "Meat"
+    },
+    {
+        "Compound Ingredient Name": "Haddock",
+        "Compound Ingredient Synonyms": "haddock",
+        "entity_id": "2099",
+        "Contituent Ingredients": "haddock, haddock-norway",
+        "Category": "Fish"
+    },
+    {
+        "Compound Ingredient Name": "Persimmon",
+        "Compound Ingredient Synonyms": "persimmon",
+        "entity_id": "2100",
+        "Contituent Ingredients": "persimmon,persimmon-common",
+        "Category": "Fruit"
+    },
+    {
+        "Compound Ingredient Name": "Apple Sauce",
+        "Compound Ingredient Synonyms": "apple=sauce",
+        "entity_id": "2101",
+        "Contituent Ingredients": "apple sauce, apple, lemon juice, sugar",
+        "Category": "Dish"
+    },
+    {
+        "Compound Ingredient Name": "Cider Vinegar",
+        "Compound Ingredient Synonyms": "soy cream; soya cream",
+        "entity_id": "2102",
+        "Contituent Ingredients": "soy cream, soy milk, cooking oil, agave, cider vinegar",
+        "Category": "Dish"
+    }
+]
