@@ -1,0 +1,592 @@
+Id,Label,d0,modularity_class,Weighted Degree
+Indian Subcontinent,Indian Subcontinent,cuisine,0,21403
+Africa,Africa,cuisine,0,4010
+China,China,cuisine,1,5715
+Thailand,Thailand,cuisine,1,4345
+South East Asia,South East Asia,cuisine,1,3702
+Middle East,Middle East,cuisine,0,4915
+Korea,Korea,cuisine,1,1600
+Japan,Japan,cuisine,1,2842
+Australia & NZ,Australia & NZ,cuisine,4,2235
+Mexico,Mexico,cuisine,2,15020
+Caribbean,Caribbean,cuisine,2,5623
+South America,South America,cuisine,2,1449
+Misc.: Belgian,Misc.: Belgian,cuisine,4,90
+DACH Countries,DACH Countries,cuisine,4,2410
+Greece,Greece,cuisine,3,3707
+France,France,cuisine,4,11413
+Misc.: Portugal,Misc.: Portugal,cuisine,3,722
+Italy,Italy,cuisine,3,27304
+Misc.: Dutch,Misc.: Dutch,cuisine,4,126
+British Isles,British Isles,cuisine,4,4792
+Scandinavia,Scandinavia,cuisine,4,1828
+Eastern Europe,Eastern Europe,cuisine,4,2063
+Spain,Spain,cuisine,3,3355
+USA,USA,cuisine,4,66534
+Canada,Canada,cuisine,4,4330
+Misc.: Central America,Misc.: Central America,cuisine,2,66
+"sunflower ","sunflower ",ingredient,0,1377
+"soy sauce ","soy sauce ",ingredient,1,1721
+"capsicum ","capsicum ",ingredient,0,57
+"cumin ","cumin ",ingredient,0,2960
+"fenugreek ","fenugreek ",ingredient,0,247
+"nigella seed ","nigella seed ",ingredient,0,55
+"potato ","potato ",ingredient,4,2485
+"mustard oil ","mustard oil ",ingredient,0,412
+"sesame ","sesame ",ingredient,1,1238
+"cayenne ","cayenne ",ingredient,0,2745
+"turmeric ","turmeric ",ingredient,0,1355
+"asafoetida ","asafoetida ",ingredient,0,482
+"clove ","clove ",ingredient,0,1048
+"cardamom ","cardamom ",ingredient,0,765
+"cinnamon ","cinnamon ",ingredient,4,2639
+"coriander ","coriander ",ingredient,0,1207
+"cashew ","cashew ",ingredient,0,217
+"raisin ","raisin ",ingredient,4,811
+"tomato ","tomato ",ingredient,3,5564
+"corn grit ","corn grit ",ingredient,0,116
+"lemon ","lemon ",ingredient,3,3035
+"curry leaf ","curry leaf ",ingredient,0,390
+"mint ","mint ",ingredient,0,1125
+"chickpea ","chickpea ",ingredient,0,656
+"fennel ","fennel ",ingredient,3,696
+"anise ","anise ",ingredient,3,133
+"mango ","mango ",ingredient,0,596
+"coriander cumin seed powder ","coriander cumin seed powder ",ingredient,0,72
+"pea pigeon ","pea pigeon ",ingredient,0,83
+"bay laurel ","bay laurel ",ingredient,0,104
+"pomegranate ","pomegranate ",ingredient,0,163
+"okra ","okra ",ingredient,0,168
+"cream ","cream ",ingredient,4,4424
+"garam masala ","garam masala ",ingredient,0,548
+"basmati ","basmati ",ingredient,0,213
+"ghee ","ghee ",ingredient,0,484
+"caraway ","caraway ",ingredient,4,190
+cheese,cheese,ingredient,3,6817
+"bean mung ","bean mung ",ingredient,0,165
+"bean ","bean ",ingredient,2,1516
+"rice ","rice ",ingredient,1,1575
+"ginger ","ginger ",ingredient,0,2644
+"carom seed ","carom seed ",ingredient,0,99
+"mushroom ","mushroom ",ingredient,4,1493
+"milk ","milk ",ingredient,4,3453
+"poppy seed ","poppy seed ",ingredient,0,143
+"melon ","melon ",ingredient,1,54
+"wheat ","wheat ",ingredient,0,596
+"almond ","almond ",ingredient,4,1204
+"nutmeg ","nutmeg ",ingredient,4,1158
+"saffron ","saffron ",ingredient,0,424
+"tamarind ","tamarind ",ingredient,0,219
+"radish ","radish ",ingredient,2,174
+"pea ","pea ",ingredient,0,763
+"beet ","beet ",ingredient,4,185
+"coconut ","coconut ",ingredient,0,694
+"chaat masala ","chaat masala ",ingredient,0,77
+"cauliflower ","cauliflower ",ingredient,0,220
+"pumpkin ","pumpkin ",ingredient,4,255
+"vinegar ","vinegar ",ingredient,4,3387
+"bread ","bread ",ingredient,3,1852
+"pistachio ","pistachio ",ingredient,0,198
+"rose ","rose ",ingredient,0,56
+"apple ","apple ",ingredient,4,821
+"mustard ","mustard ",ingredient,4,2030
+"lettuce ","lettuce ",ingredient,2,832
+"colocasia ","colocasia ",ingredient,0,10
+"asparagu ","asparagu ",ingredient,4,326
+"cucumber ","cucumber ",ingredient,1,853
+"avocado ","avocado ",ingredient,2,686
+"bean french ","bean french ",ingredient,0,27
+"corn ","corn ",ingredient,2,898
+"honey ","honey ",ingredient,4,1336
+"paneer ","paneer ",ingredient,0,27
+"curry powder ","curry powder ",ingredient,0,500
+"peanut ","peanut ",ingredient,1,393
+"yam ","yam ",ingredient,0,42
+"carrot ","carrot ",ingredient,4,2321
+"banana ","banana ",ingredient,4,442
+"coconut oil ","coconut oil ",ingredient,0,80
+"basil ","basil ",ingredient,3,2099
+"pineapple ","pineapple ",ingredient,4,592
+"rasam powder ","rasam powder ",ingredient,0,12
+"soybean oil ","soybean oil ",ingredient,0,11
+"yeast ","yeast ",ingredient,4,673
+"shallot ","shallot ",ingredient,4,1517
+"sambar powder ","sambar powder ",ingredient,0,22
+"bitter gourd ","bitter gourd ",ingredient,0,10
+"chole masala ","chole masala ",ingredient,0,11
+"rice brown ","rice brown ",ingredient,2,105
+"buckwheat ","buckwheat ",ingredient,1,35
+"spinach ","spinach ",ingredient,3,876
+"cabbage ","cabbage ",ingredient,1,705
+"parsley ","parsley ",ingredient,3,3880
+"soybean ","soybean ",ingredient,0,70
+"oregano ","oregano ",ingredient,3,1765
+"date ","date ",ingredient,4,116
+"chicken ","chicken ",ingredient,4,5094
+"cherry ","cherry ",ingredient,4,369
+"strawberry ","strawberry ",ingredient,4,462
+"wine white ","wine white ",ingredient,3,1465
+"orange ","orange ",ingredient,4,1820
+"vanilla ","vanilla ",ingredient,4,2744
+"cocoa ","cocoa ",ingredient,4,75
+"syrup ","syrup ",ingredient,4,791
+"kiwi ","kiwi ",ingredient,4,53
+"tea ","tea ",ingredient,4,58
+"bean cluster ","bean cluster ",ingredient,0,5
+"bottle gourd ","bottle gourd ",ingredient,0,14
+"tandoori masala ","tandoori masala ",ingredient,0,14
+"grape ","grape ",ingredient,3,200
+zucchini,zucchini,ingredient,3,642
+"bean kidney ","bean kidney ",ingredient,2,197
+"oat ","oat ",ingredient,4,248
+"fig ","fig ",ingredient,3,119
+"walnut ","walnut ",ingredient,4,720
+"jackfruit ","jackfruit ",ingredient,0,5
+"mandarin ","mandarin ",ingredient,4,56
+"flax seed ","flax seed ",ingredient,4,22
+"papaya ","papaya ",ingredient,2,93
+"blueberry ","blueberry ",ingredient,4,229
+"currant black ","currant black ",ingredient,4,9
+"citru ","citru ",ingredient,4,25
+"mace ","mace ",ingredient,4,46
+"lotu ","lotu ",ingredient,1,15
+"mutton ","mutton ",ingredient,0,7
+"honeydew ","honeydew ",ingredient,3,35
+"jalapeno ","jalapeno ",ingredient,2,981
+"potato sweet ","potato sweet ",ingredient,4,330
+"dill ","dill ",ingredient,4,615
+"guava ","guava ",ingredient,4,26
+tea leaf willow,tea leaf willow,ingredient,0,18
+"prawn ","prawn ",ingredient,1,60
+"cider vinegar ","cider vinegar ",ingredient,4,632
+"canola oil ","canola oil ",ingredient,4,922
+"turnip ","turnip ",ingredient,4,135
+"crab ","crab ",ingredient,4,189
+"apricot ","apricot ",ingredient,4,293
+"beef ","beef ",ingredient,2,2147
+"peanut oil ","peanut oil ",ingredient,1,387
+"bouillon ","bouillon ",ingredient,2,313
+"tomato paste ","tomato paste ",ingredient,3,864
+"bay leaf ","bay leaf ",ingredient,4,1634
+"celery ","celery ",ingredient,4,2023
+"cornstarch ","cornstarch ",ingredient,1,956
+"rosemary ","rosemary ",ingredient,3,944
+"bean green ","bean green ",ingredient,4,294
+"worcestershire sauce ","worcestershire sauce ",ingredient,4,839
+"lemon juice ","lemon juice ",ingredient,4,2787
+"paprika ","paprika ",ingredient,4,1470
+"coconut milk ","coconut milk ",ingredient,1,514
+"garbanzo ","garbanzo ",ingredient,0,142
+"coriander seed ","coriander seed ",ingredient,0,318
+"tofu ","tofu ",ingredient,1,192
+"self rising flour ","self rising flour ",ingredient,4,108
+"vegetable oil ","vegetable oil ",ingredient,2,3944
+"flour ","flour ",ingredient,4,6245
+"baking powder ","baking powder ",ingredient,4,1606
+"lime ","lime ",ingredient,2,2443
+"red chile ","red chile ",ingredient,0,392
+"bacon ","bacon ",ingredient,4,1081
+"liquid smoke ","liquid smoke ",ingredient,4,94
+"habanero ","habanero ",ingredient,2,143
+"shiitake ","shiitake ",ingredient,1,313
+"thyme ","thyme ",ingredient,4,2221
+"cassava ","cassava ",ingredient,2,11
+"vegetable broth ","vegetable broth ",ingredient,3,249
+"green chile ","green chile ",ingredient,2,562
+"chayote ","chayote ",ingredient,1,21
+"allspice ","allspice ",ingredient,2,595
+"leek ","leek ",ingredient,4,404
+"half half ","half half ",ingredient,4,428
+"turkey ","turkey ",ingredient,4,516
+"mackerel ","mackerel ",ingredient,1,15
+"harissa ","harissa ",ingredient,0,47
+"cilantro ","cilantro ",ingredient,2,2846
+goat milk,goat milk,ingredient,2,17
+"lentil ","lentil ",ingredient,0,210
+"chocolate ","chocolate ",ingredient,4,1341
+"gelatin ","gelatin ",ingredient,4,185
+"coffee ","coffee ",ingredient,4,321
+"brandy ","brandy ",ingredient,4,225
+"food coloring ","food coloring ",ingredient,4,176
+"vegetable stock ","vegetable stock ",ingredient,1,160
+"baking soda ","baking soda ",ingredient,4,976
+hot  chocolate,hot  chocolate,ingredient,3,44
+"yogurt ","yogurt ",ingredient,0,754
+"lamb ","lamb ",ingredient,0,510
+"bread white ","bread white ",ingredient,4,294
+"wine red ","wine red ",ingredient,3,599
+"soup ","soup ",ingredient,1,19
+"cod ","cod ",ingredient,4,101
+"margarine ","margarine ",ingredient,4,377
+sauce  soybean,sauce  soybean,ingredient,4,705
+"graham cracker ","graham cracker ",ingredient,4,146
+"hazelnut ","hazelnut ",ingredient,4,224
+"pecan ","pecan ",ingredient,4,487
+"puff pastry ","puff pastry ",ingredient,4,199
+"pine ","pine ",ingredient,3,374
+"couscou ","couscou ",ingredient,0,202
+"pasta ","pasta ",ingredient,3,761
+"tahini ","tahini ",ingredient,0,89
+"chile powder ","chile powder ",ingredient,0,193
+"corn oil ","corn oil ",ingredient,2,141
+"shortening ","shortening ",ingredient,4,430
+bamboo shoot,bamboo shoot,ingredient,1,67
+"macaroni ","macaroni ",ingredient,4,131
+"vermicelli ","vermicelli ",ingredient,1,67
+"semolina ","semolina ",ingredient,3,137
+"squash yellow ","squash yellow ",ingredient,4,140
+"tomato puree ","tomato puree ",ingredient,3,191
+"broccoli ","broccoli ",ingredient,3,316
+"jasmine ","jasmine ",ingredient,1,102
+"cooking oil ","cooking oil ",ingredient,0,117
+"milk powder ","milk powder ",ingredient,4,41
+"catfish ","catfish ",ingredient,4,63
+"sardine ","sardine ",ingredient,3,24
+"steak ","steak ",ingredient,4,693
+"cereal ","cereal ",ingredient,4,59
+"rutabaga ","rutabaga ",ingredient,4,45
+"sausage ","sausage ",ingredient,3,985
+"adobo sauce ","adobo sauce ",ingredient,2,144
+"prune ","prune ",ingredient,4,107
+"salmon ","salmon ",ingredient,4,411
+"mayonnaise ","mayonnaise ",ingredient,4,1060
+"cranberry ","cranberry ",ingredient,4,386
+"bean red kidney ","bean red kidney ",ingredient,4,54
+"quinoa ","quinoa ",ingredient,2,62
+"cherry tomato ","cherry tomato ",ingredient,3,377
+"bas ","bas ",ingredient,1,94
+"chervil ","chervil ",ingredient,4,78
+"parsnip ","parsnip ",ingredient,4,101
+"agave ","agave ",ingredient,2,19
+"artichoke ","artichoke ",ingredient,3,286
+"kale ","kale ",ingredient,3,143
+"sherry ","sherry ",ingredient,1,395
+"pea black eyed ","pea black eyed ",ingredient,4,78
+"phyllo ","phyllo ",ingredient,3,140
+"caper ","caper ",ingredient,3,475
+"tuna ","tuna ",ingredient,1,120
+"cooking spray ","cooking spray ",ingredient,4,406
+"pear ","pear ",ingredient,4,265
+"peach ","peach ",ingredient,4,251
+"bread whole wheat ","bread whole wheat ",ingredient,4,60
+"red chili ","red chili ",ingredient,0,110
+"millet ","millet ",ingredient,0,12
+"italian seasoning ","italian seasoning ",ingredient,3,200
+"scallop ","scallop ",ingredient,4,260
+"pork ","pork ",ingredient,1,1346
+"wonton wrapper ","wonton wrapper ",ingredient,1,66
+"wine ","wine ",ingredient,1,241
+"shrimp ","shrimp ",ingredient,1,1219
+"fish ","fish ",ingredient,1,681
+"soy bean ","soy bean ",ingredient,1,11
+"sake ","sake ",ingredient,1,104
+"miso ","miso ",ingredient,1,91
+"bamboo shoot ","bamboo shoot ",ingredient,1,48
+paste  tomato,paste  tomato,ingredient,1,272
+"oyster ","oyster ",ingredient,1,279
+"milk condensed ","milk condensed ",ingredient,2,190
+"bun ","bun ",ingredient,4,38
+"milk evaporated ","milk evaporated ",ingredient,4,207
+"hoisin sauce ","hoisin sauce ",ingredient,1,141
+"daikon ","daikon ",ingredient,1,61
+"tapioca ","tapioca ",ingredient,1,55
+"chive ","chive ",ingredient,4,740
+"anise star ","anise star ",ingredient,1,178
+"salad dressing ","salad dressing ",ingredient,4,165
+"fettuccine ","fettuccine ",ingredient,3,95
+"scallion ","scallion ",ingredient,1,1213
+"salad ","salad ",ingredient,4,141
+"corn flour ","corn flour ",ingredient,2,43
+oriental  wheat,oriental  wheat,ingredient,1,5
+"ice ","ice ",ingredient,4,466
+"lard ","lard ",ingredient,2,79
+"lychee ","lychee ",ingredient,4,14
+"barley ","barley ",ingredient,4,62
+"bean red ","bean red ",ingredient,1,32
+"chinese five spice ","chinese five spice ",ingredient,1,76
+"cocktail ","cocktail ",ingredient,4,57
+"meat ","meat ",ingredient,4,95
+"gin ","gin ",ingredient,4,47
+"tangerine ","tangerine ",ingredient,4,46
+"molass ","molass ",ingredient,4,306
+"crabmeat ","crabmeat ",ingredient,4,269
+"soy milk ","soy milk ",ingredient,1,24
+"pudding ","pudding ",ingredient,4,81
+"red chily ","red chily ",ingredient,1,21
+"green chily ","green chily ",ingredient,2,104
+"horseradish ","horseradish ",ingredient,4,259
+"ketchup ","ketchup ",ingredient,4,516
+"duck ","duck ",ingredient,4,145
+"sirloin ","sirloin ",ingredient,4,235
+"ham ","ham ",ingredient,4,473
+"spaghetti ","spaghetti ",ingredient,3,367
+"chestnut ","chestnut ",ingredient,4,79
+"plum ","plum ",ingredient,4,78
+"sweet corn ","sweet corn ",ingredient,2,53
+"tortilla ","tortilla ",ingredient,2,884
+"barbeque sauce ","barbeque sauce ",ingredient,4,83
+"pancake ","pancake ",ingredient,4,20
+"pork fat ","pork fat ",ingredient,4,61
+"lobster ","lobster ",ingredient,4,220
+"clam ","clam ",ingredient,3,341
+kaffir beer,kaffir beer,ingredient,1,78
+"poultry seasoning ","poultry seasoning ",ingredient,4,83
+"sage ","sage ",ingredient,4,519
+"pizza ","pizza ",ingredient,3,220
+"cashew nut ","cashew nut ",ingredient,0,19
+"bread pita ","bread pita ",ingredient,0,117
+"hamburger ","hamburger ",ingredient,4,116
+"mussel ","mussel ",ingredient,3,177
+"monkfish ","monkfish ",ingredient,3,17
+"flaxseed ","flaxseed ",ingredient,4,9
+"hot sauce ","hot sauce ",ingredient,4,455
+"mushroom oyster ","mushroom oyster ",ingredient,4,45
+"grapefruit ","grapefruit ",ingredient,4,96
+"arrowroot ","arrowroot ",ingredient,4,19
+"tea black ","tea black ",ingredient,0,29
+"cocoa powder ","cocoa powder ",ingredient,4,437
+"coleslaw ","coleslaw ",ingredient,4,34
+"macadamia nut ","macadamia nut ",ingredient,4,73
+"snapper ","snapper ",ingredient,2,132
+"tarragon ","tarragon ",ingredient,4,430
+"quince ","quince ",ingredient,3,23
+"bean lima ","bean lima ",ingredient,4,55
+"wasabi ","wasabi ",ingredient,1,63
+"currant ","currant ",ingredient,4,151
+"taco ","taco ",ingredient,2,267
+"sultana ","sultana ",ingredient,0,14
+"bulgur ","bulgur ",ingredient,0,57
+"popcorn ","popcorn ",ingredient,4,33
+"rabbit ","rabbit ",ingredient,3,25
+"marjoram ","marjoram ",ingredient,3,169
+"goat milk ","goat milk ",ingredient,0,4
+"dressing ranch ","dressing ranch ",ingredient,2,70
+"chard ","chard ",ingredient,3,93
+"pastry ","pastry ",ingredient,4,217
+"applesauce ","applesauce ",ingredient,4,62
+"anchovy ","anchovy ",ingredient,3,349
+jam  strawberry,jam  strawberry,ingredient,4,14
+"cake ","cake ",ingredient,4,125
+pita  bread,pita  bread,ingredient,0,58
+"purslane ","purslane ",ingredient,0,9
+"spread ","spread ",ingredient,2,34
+"pie crust ","pie crust ",ingredient,4,146
+"ravioli ","ravioli ",ingredient,3,30
+"whitefish ","whitefish ",ingredient,4,16
+"pate ","pate ",ingredient,4,20
+"baguette ","baguette ",ingredient,3,270
+"chicory ","chicory ",ingredient,4,14
+"squid ","squid ",ingredient,3,85
+"pig ","pig ",ingredient,2,19
+"topping ","topping ",ingredient,4,205
+"jicama ","jicama ",ingredient,2,73
+"ice cream ","ice cream ",ingredient,4,384
+plantain french,plantain french,ingredient,2,103
+"hot dog ","hot dog ",ingredient,4,69
+"chocolate hot ","chocolate hot ",ingredient,4,12
+"mixed nut ","mixed nut ",ingredient,4,11
+dal toor,dal toor,ingredient,0,16
+"kalonji ","kalonji ",ingredient,0,8
+"cake mix ","cake mix ",ingredient,4,93
+silver  linden,silver  linden,ingredient,4,10
+"marshmallow ","marshmallow ",ingredient,4,96
+"haddock ","haddock ",ingredient,4,27
+"prosciutto ","prosciutto ",ingredient,3,313
+"swordfish ","swordfish ",ingredient,3,47
+"tandoori paste ","tandoori paste ",ingredient,0,5
+"halibut ","halibut ",ingredient,4,121
+"mixed vegetable ","mixed vegetable ",ingredient,4,47
+"croissant ","croissant ",ingredient,4,20
+"amchoor ","amchoor ",ingredient,0,6
+"amaranth ","amaranth ",ingredient,0,8
+"rhubarb ","rhubarb ",ingredient,4,59
+"scotch ","scotch ",ingredient,2,88
+"beer ","beer ",ingredient,4,333
+"wakame ","wakame ",ingredient,1,7
+"kombu ","kombu ",ingredient,1,30
+"kelp ","kelp ",ingredient,1,8
+brown  rice,brown  rice,ingredient,4,37
+hen  guinea,hen  guinea,ingredient,4,41
+"persimmon ","persimmon ",ingredient,4,15
+"dried mixed fruit ","dried mixed fruit ",ingredient,4,12
+juice  apple,juice  apple,ingredient,1,28
+soy sauce,soy sauce,ingredient,1,15
+"tea green ","tea green ",ingredient,1,17
+"vodka ","vodka ",ingredient,4,165
+"bonito ","bonito ",ingredient,1,31
+"octopu ","octopu ",ingredient,3,20
+"apple juice ","apple juice ",ingredient,4,112
+"adobo ","adobo ",ingredient,2,80
+"eel ","eel ",ingredient,3,7
+"alfalfa ","alfalfa ",ingredient,1,12
+"whiskey ","whiskey ",ingredient,4,125
+"baking mix ","baking mix ",ingredient,4,24
+"sauerkraut ","sauerkraut ",ingredient,4,98
+"blackberry ","blackberry ",ingredient,4,131
+"lasagna ","lasagna ",ingredient,3,126
+"trout ","trout ",ingredient,4,63
+"rum ","rum ",ingredient,2,394
+"raspberry ","raspberry ",ingredient,4,384
+dressing ranch,dressing ranch,ingredient,4,128
+"italian style seasoning ","italian style seasoning ",ingredient,3,13
+"currant red ","currant red ",ingredient,4,19
+"taro ","taro ",ingredient,4,18
+"old bay seasoning ","old bay seasoning ",ingredient,4,45
+"tart shell ","tart shell ",ingredient,4,38
+"strawberry jam ","strawberry jam ",ingredient,4,28
+"potato chip ","potato chip ",ingredient,4,36
+"brussel sprout ","brussel sprout ",ingredient,4,65
+"vermouth ","vermouth ",ingredient,4,118
+flower  sesbania,flower  sesbania,ingredient,4,18
+"kumquat ","kumquat ",ingredient,4,15
+"vegetable juice ","vegetable juice ",ingredient,4,23
+"port wine ","port wine ",ingredient,4,46
+"focaccia ","focaccia ",ingredient,3,23
+"orange roughy ","orange roughy ",ingredient,4,6
+"tequila ","tequila ",ingredient,2,176
+"sorrel ","sorrel ",ingredient,2,9
+"meringue ","meringue ",ingredient,4,18
+"custard ","custard ",ingredient,4,28
+"candied mixed fruit ","candied mixed fruit ",ingredient,4,15
+"sponge cake ","sponge cake ",ingredient,4,25
+"raspberry red ","raspberry red ",ingredient,4,11
+"kiwifruit ","kiwifruit ",ingredient,4,5
+"tortilla chip ","tortilla chip ",ingredient,2,181
+"tostada ","tostada ",ingredient,2,19
+"oregano mexican ","oregano mexican ",ingredient,2,96
+"enchilada ","enchilada ",ingredient,2,86
+"cajun seasoning ","cajun seasoning ",ingredient,4,183
+"grouper ","grouper ",ingredient,4,18
+spanish  sage,spanish  sage,ingredient,3,33
+"milk fat ","milk fat ",ingredient,4,67
+"corn bread ","corn bread ",ingredient,4,24
+"creole seasoning ","creole seasoning ",ingredient,4,89
+"corn chip ","corn chip ",ingredient,2,24
+"epazote ","epazote ",ingredient,2,18
+"truffle ","truffle ",ingredient,4,111
+"buffalo ","buffalo ",ingredient,3,43
+"empanada ","empanada ",ingredient,2,8
+"green chili ","green chili ",ingredient,2,16
+"tamale ","tamale ",ingredient,2,6
+"cornbread ","cornbread ",ingredient,4,48
+"relish ","relish ",ingredient,4,90
+"pear prickly ","pear prickly ",ingredient,2,8
+"stuffing ","stuffing ",ingredient,4,45
+"pancetta ","pancetta ",ingredient,3,230
+"cherry sweet ","cherry sweet ",ingredient,4,18
+"dulce de leche ","dulce de leche ",ingredient,2,13
+hibiscu  tea,hibiscu  tea,ingredient,2,6
+"orange bitter ","orange bitter ",ingredient,2,11
+lean  fish,lean  fish,ingredient,4,9
+"lager ","lager ",ingredient,4,36
+"meatball ","meatball ",ingredient,3,32
+"champagne ","champagne ",ingredient,4,146
+hard  wheat,hard  wheat,ingredient,3,18
+"pectin ","pectin ",ingredient,4,22
+"nectarine ","nectarine ",ingredient,4,35
+"conch ","conch ",ingredient,2,11
+"pimiento ","pimiento ",ingredient,3,72
+"orange sour ","orange sour ",ingredient,2,11
+grit  corn,grit  corn,ingredient,4,78
+string  bean,string  bean,ingredient,4,53
+"treacle ","treacle ",ingredient,4,5
+"biscuit ","biscuit ",ingredient,4,46
+"cedar ","cedar ",ingredient,4,10
+"rockfish ","rockfish ",ingredient,4,9
+"kohlrabi ","kohlrabi ",ingredient,0,6
+"endive ","endive ",ingredient,4,86
+"veal ","veal ",ingredient,3,259
+"brandy apple ","brandy apple ",ingredient,4,24
+"herbe de provence ","herbe de provence ",ingredient,4,64
+"brandy cognac ","brandy cognac ",ingredient,4,33
+"bean haricot ","bean haricot ",ingredient,4,35
+"goose ","goose ",ingredient,4,17
+"sole ","sole ",ingredient,4,35
+"sourdough ","sourdough ",ingredient,4,140
+"merlot ","merlot ",ingredient,4,23
+"armagnac brandy ","armagnac brandy ",ingredient,4,9
+"snail ","snail ",ingredient,3,7
+"caviar ","caviar ",ingredient,4,57
+"malt ","malt ",ingredient,4,9
+cognac  brandy,cognac  brandy,ingredient,4,60
+"dandelion ","dandelion ",ingredient,4,19
+"ale ","ale ",ingredient,4,18
+"italian herb seasoning ","italian herb seasoning ",ingredient,3,13
+"ladyfinger ","ladyfinger ",ingredient,3,40
+"safflower ","safflower ",ingredient,4,44
+"spinach fettuccine ","spinach fettuccine ",ingredient,3,6
+"chanterelle ","chanterelle ",ingredient,4,73
+"boar ","boar ",ingredient,3,5
+heated  chocolate,heated  chocolate,ingredient,3,10
+"meatloaf ","meatloaf ",ingredient,4,11
+"pie ","pie ",ingredient,4,70
+"pheasant ","pheasant ",ingredient,4,13
+"sorghum ","sorghum ",ingredient,4,7
+"cherry sour ","cherry sour ",ingredient,4,33
+"madeira ","madeira ",ingredient,4,51
+"icing ","icing ",ingredient,4,25
+"marzipan ","marzipan ",ingredient,4,17
+"herring ","herring ",ingredient,4,10
+"savory summer ","savory summer ",ingredient,4,11
+"cracker crumb ","cracker crumb ",ingredient,4,15
+"poppyseed ","poppyseed ",ingredient,4,5
+"fruit juice ","fruit juice ",ingredient,4,17
+"rice wild ","rice wild ",ingredient,4,41
+frankfurter sausage,frankfurter sausage,ingredient,4,8
+"raspberry black ","raspberry black ",ingredient,4,8
+"potato fried ","potato fried ",ingredient,4,5
+"waffle ","waffle ",ingredient,4,11
+fern tree,fern tree,ingredient,4,8
+"potato bread ","potato bread ",ingredient,4,5
+"gooseberry ","gooseberry ",ingredient,4,6
+"stew ","stew ",ingredient,3,7
+huckleberry black,huckleberry black,ingredient,4,8
+"bean string ","bean string ",ingredient,3,13
+"shellfish ","shellfish ",ingredient,3,7
+"remoulade ","remoulade ",ingredient,4,18
+ranch  dressing,ranch  dressing,ingredient,4,6
+fried  potato,fried  potato,ingredient,1,6
+"hummu ","hummu ",ingredient,0,10
+"bluefish ","bluefish ",ingredient,4,9
+"quail ","quail ",ingredient,4,33
+smoked  fish,smoked  fish,ingredient,4,29
+"toffee ","toffee ",ingredient,4,14
+"tumeric ","tumeric ",ingredient,0,6
+"corn starch ","corn starch ",ingredient,1,6
+"vinegar cider ","vinegar cider ",ingredient,4,8
+"squab ","squab ",ingredient,4,8
+"broccolini ","broccolini ",ingredient,1,16
+haricot  bean,haricot  bean,ingredient,4,22
+port wine,port wine,ingredient,4,67
+"bagel ","bagel ",ingredient,4,8
+"pea chick ","pea chick ",ingredient,0,22
+"orange oil ","orange oil ",ingredient,4,7
+puree  tomato,puree  tomato,ingredient,4,32
+star  anise,star  anise,ingredient,2,11
+"asafetida ","asafetida ",ingredient,0,14
+sea  cucumber,sea  cucumber,ingredient,1,5
+gram  bean,gram  bean,ingredient,3,13
+"codfish ","codfish ",ingredient,2,7
+irish  mos,irish  mos,ingredient,4,6
+"guinea hen ","guinea hen ",ingredient,4,3
+"crayfish ","crayfish ",ingredient,4,5
+"arctic char ","arctic char ",ingredient,4,8
+"brandy pear ","brandy pear ",ingredient,4,5
+armagnac brandy,armagnac brandy,ingredient,4,9
+"boysenberry ","boysenberry ",ingredient,4,10
+"salsify ","salsify ",ingredient,4,5
+"cider ","cider ",ingredient,4,17
+verbena lemon,verbena lemon,ingredient,4,3
+"verbena lemon ","verbena lemon ",ingredient,4,6
+"porcini ","porcini ",ingredient,3,16
+"lady finger ","lady finger ",ingredient,3,7
+"fudge ","fudge ",ingredient,4,7
+"frankfurter sausage ","frankfurter sausage ",ingredient,4,2
+"piecrust ","piecrust ",ingredient,4,7
+"candy bar ","candy bar ",ingredient,4,9
+canola oil,canola oil,ingredient,4,2
+"raspberry brandy ","raspberry brandy ",ingredient,4,5
+"sturgeon ","sturgeon ",ingredient,0,5
+american  pokeweed,american  pokeweed,ingredient,4,5
+guinea hen,guinea hen,ingredient,0,2
+gratin  potato,gratin  potato,ingredient,4,10
